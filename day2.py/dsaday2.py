@@ -17,4 +17,4 @@ arrayName[0]=40
 print(arrayName)
 
 for i in range(0,len(arrayName)):
-    print(arrayName[1]),end="")
+    print(arrayName[1],end="")

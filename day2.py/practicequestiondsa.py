@@ -16,5 +16,6 @@ for i in range(0,len(arrayName),2):#time complexity 0(n)
     count=0
     target=int(input("enter target vlue"))
     
+    
 
  
